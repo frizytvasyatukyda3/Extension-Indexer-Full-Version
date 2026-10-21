@@ -238,4 +238,4 @@ This repository serves as the official landing page for Extension Indexer. The s
 **Get the most recent version of Extension Indexer today!**
 
 ---
-**Last updated:** 2026-10-21 13:32:06 UTC
+**Last updated:** 2026-10-21 18:27:00 UTC
